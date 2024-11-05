@@ -30,5 +30,16 @@ A **supply chain** is a global network that delivers products and services from 
 - Leveraging specialized **focus and expertise**.
 - Improved **communication** and collaboration among companies.
 
+## Examples of Supply Chain Models
+
+### 1. Manufacturing Supply Chain
+The manufacturer (nucleus firm) is central, with upstream suppliers on the left (materials, services, and multi-tier suppliers) and downstream distributors and customers on the right. Supply chains vary in tier complexity, extending upstream with raw material sources, like flour, originating from farms and passing through multiple processing stages. Information flows bidirectionally, while products flow downstream, and cash flows upstream
+
+### 2. Service Industry Supply Chain
+This model centers on service providers, delivering intangible products. Utilities (e.g., water, electricity) are vital for manufacturing locations. Service supply chains often involve complex management and channel services to households, businesses, or other utilities.
+
+### What is in Common
+Both models emphasize a core structure: supplier, producer (or service provider), and customer.
+
 ## Summary
 In today’s global supply chain landscape, lateral integration is the predominant model, promoting specialization and partnership among independent companies. While it enhances expertise and scale, it can also pose challenges in coordinating across a network of diverse entities.
